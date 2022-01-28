@@ -1,4 +1,5 @@
-Week 1:
+# A new programming Paradigm  
+
 - Introduction to machine learning
 - Difference between traditional programming and ML
 - ML recognises patterns in data
